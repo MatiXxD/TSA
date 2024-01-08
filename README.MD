@@ -1,6 +1,7 @@
 # TSA repository
 Данный репозиторий содержит решения к домашним заданиям по курсу "Анализ временных рядов".
 
+
 ## Домашнее задание №1
 Условие:
 
@@ -11,3 +12,52 @@
 [Данные](https://datalens.yandex/7o7is1q6ikh23?tab=X1&utm_source=cbmain)
 
 [Решение](lesson1/dz1.ipynb)
+
+
+
+## Домашнее задание №2
+Условие:
+
+Реализовать алгоритм из статьи [Wavelet Analysis and Self-Similarity of Photoplethysmography Signals for HRV Estimation and Quality Assessment / Neshitov](https://doi.org/10.3390/s21206798).
+
+[Решение](lesson2/dz2.ipynb)
+
+
+
+## Домашнее задание №3
+Условие:
+
+Реализовать адаптивную фильтрацию
+
+[Решение](lesson3/dz3.ipynb)
+
+
+
+## Домашнее задание №5
+Условие:
+
+1. Даны два датасета ([динамика вакцинации от ковида (А)](https://www.kaggle.com/datasets/priteshraj10/covid-vaccination-all-countries-data) и [твиты про ковид(Б)](https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets))
+
+2. Необходимо, используя тест Гренджера на причинность, определить, является ли процесс, описываемый датасетом А причиной процесса Б (по Гренджеру), и наоборот.
+
+[Решение](lesson5/dz5.ipynb)
+
+
+
+## Домашнее задание №6
+Условие:
+
+Научиться детектировать R зубцы.
+
+[Данные](lesson6/ECG_data)
+
+[Решение](lesson6/dz6.ipynb)
+
+
+
+## Домашнее задание №7
+Условие:
+
+Дан [код](lesson7/dz7.ipynb), в котором нейросеть, которая предсказывает сигнал. Надо разобраться как она работает.
+
+[Решение](lesson7/dz7.ipynb)
